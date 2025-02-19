@@ -1,5 +1,6 @@
 # Server-Performance-Stats
-https://github.com/nvs123456/Server-Performance-Stats </br>
+- project page: </br>
+	`https://roadmap.sh/projects/server-stats`
 - make script executable: </br>
 	`chmod +x server-stat.sh`</br>
 - run script:</br>
